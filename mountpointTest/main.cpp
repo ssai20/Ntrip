@@ -78,7 +78,7 @@ int main() {
     //    string mountpoint;
     //    cin>>mountpoint;
     //    cout<<endl;
-    string mountpoint = "Agviser";
+    string mountpoint = "Adkonis";
     //    bie001
     //    AlabamaSylacauga
     //    ASKJA
