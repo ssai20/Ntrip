@@ -166,10 +166,8 @@ int main() {
             cout<<"recv failed with error"<<endl;
         }
     } while(result>0);
-//    std::cout << myString << "\n";
 
     close(connectSocket);
-    freeaddrinfo(addrResult);
     return 0;
 }
 
